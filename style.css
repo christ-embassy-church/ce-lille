@@ -606,28 +606,10 @@ p {
 	border-radius: 12px;
 	min-height: 400px;
 }
-#about .left .card .img {
-	width: 70px;
-	height: 70px;
-	margin: 0 auto;
-	border-radius: 50%;
-	overflow: hidden;
-	margin-bottom: 2rem;
-}
-#about .left .card .img img {
-	object-fit: cover;
-}
-#about .left .card .card-desc {
-	color: var(--secondary-gray);
-	margin-bottom: 2rem;
-}
-#about .left .card .card-name {
+#about .left .card-name {
 	font-size: 2rem;
-	margin-bottom: 0.2rem;
 }
-#about .left .card .card-sub-title {
-	font-size: 1.4rem;
-}
+
 #about .subheading {
 	color: var(--primary-color);
 	margin-bottom: 1rem;
